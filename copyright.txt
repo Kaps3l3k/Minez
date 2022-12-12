@@ -1,0 +1,6 @@
+Modyfikowanie jak i używanie grafik oraz modeli, które zawiera paczka jest prawnie zastrzeżone. 
+Jest to własność serwera JBWM/firmy OtherKey.
+
+W razie chęci nawiązania współpracy prosimy o kontakt na mail: kontakt@otherkey.pl
+
+#Autor paczki: Shiffo
